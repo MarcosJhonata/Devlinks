@@ -3,7 +3,7 @@ function toggleMode() {
   html.classList.toggle("light")
   const img = document.querySelector("#profile img")
  if(html.classList.contains("light")) {
- img.setAttribute("src", "./assets/avatar-light.png")
+ img.setAttribute("src","./assets/avatar-light.png")
  img.setAttribute("alt", "Foto de Marcos JHonata vestido com camisa preta , barba por fazer , em um fundo claro")
  } else {
    img.setAttribute("src","./assets/avatar-Jonas.png")
