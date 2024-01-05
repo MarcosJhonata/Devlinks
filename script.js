@@ -6,7 +6,7 @@ function toggleMode() {
  img.setAttribute("src","./assets/avatar-light.png")
  img.setAttribute("alt", "Foto de Marcos JHonata vestido com camisa preta , barba por fazer , em um fundo claro")
  } else {
-   img.setAttribute("src","./assets/avatar-Jonas.png")
+   img.setAttribute("src","./assets/Avatar.png")
    img.setAttribute("alt", "Foto de Marcos Jhonata sorrindo usando terno azul e oculos com decoração de casamento")
 }
 
